@@ -1,101 +1,101 @@
 id,name,cuisine,capacity,area,price_bucket,rating,amenities
-1,GoodFoods_1,Thai,116,Koramangala,low,3.4,wifi
-2,GoodFoods_2,Continental,38,Jayanagar,low,4.2,"wifi,private_dining"
-3,GoodFoods_3,Mediterranean,119,Koramangala,low,4.6,"wifi,live_music"
-4,GoodFoods_4,Seafood,194,Indiranagar,high,3.1,"private_dining,parking,wifi"
-5,GoodFoods_5,Mexican,104,Connaught Place,mid,4.7,"parking,wifi,live_music"
-6,GoodFoods_6,Mexican,106,Indiranagar,low,3.2,live_music
-7,GoodFoods_7,Japanese,172,Jayanagar,low,4.0,wheelchair_access
-8,GoodFoods_8,Indian,38,Connaught Place,low,4.0,"live_music,outdoor_seating"
-9,GoodFoods_9,Indian,42,Lower Parel,high,3.2,outdoor_seating
-10,GoodFoods_10,Chinese,52,Bandra,mid,3.9,"wheelchair_access,parking"
-11,GoodFoods_11,Mexican,113,MG Road,high,3.7,"live_music,parking"
-12,GoodFoods_12,Japanese,117,MG Road,low,4.8,"wifi,live_music"
-13,GoodFoods_13,Italian,89,Indiranagar,mid,4.1,wheelchair_access
-14,GoodFoods_14,Continental,28,Koramangala,mid,4.5,live_music
-15,GoodFoods_15,Continental,99,Indiranagar,mid,3.3,wheelchair_access
-16,GoodFoods_16,Thai,66,Indiranagar,mid,3.0,"live_music,wifi"
-17,GoodFoods_17,Thai,111,Noida Sector 18,low,3.6,"live_music,wifi,wheelchair_access"
-18,GoodFoods_18,Seafood,41,Noida Sector 18,high,3.0,parking
-19,GoodFoods_19,Seafood,122,Jayanagar,high,4.2,"outdoor_seating,private_dining"
-20,GoodFoods_20,Continental,44,Andheri,low,4.6,live_music
-21,GoodFoods_21,Thai,71,Connaught Place,low,4.9,"outdoor_seating,parking"
-22,GoodFoods_22,Cafe,83,MG Road,low,4.4,"private_dining,parking,live_music"
-23,GoodFoods_23,Chinese,109,Colaba,low,3.7,wheelchair_access
-24,GoodFoods_24,Thai,71,Indiranagar,low,3.3,"parking,private_dining,wheelchair_access"
-25,GoodFoods_25,Mexican,116,Connaught Place,mid,4.4,live_music
-26,GoodFoods_26,Continental,66,Colaba,high,4.5,"outdoor_seating,wifi,parking"
-27,GoodFoods_27,Chinese,91,MG Road,low,3.5,wheelchair_access
-28,GoodFoods_28,Seafood,176,Noida Sector 18,mid,4.7,"private_dining,live_music"
-29,GoodFoods_29,Continental,65,Colaba,low,3.7,"wheelchair_access,private_dining,wifi"
-30,GoodFoods_30,Thai,151,Andheri,low,4.7,"parking,outdoor_seating"
-31,GoodFoods_31,Chinese,88,MG Road,low,4.9,"wheelchair_access,private_dining,live_music"
-32,GoodFoods_32,Mexican,124,Bandra,low,4.4,wifi
-33,GoodFoods_33,Thai,60,Koramangala,low,3.8,private_dining
-34,GoodFoods_34,Chinese,46,Andheri,high,4.0,"live_music,outdoor_seating"
-35,GoodFoods_35,Seafood,172,Indiranagar,mid,3.2,"wheelchair_access,outdoor_seating,parking"
-36,GoodFoods_36,Italian,36,Jayanagar,high,4.5,"private_dining,wifi"
-37,GoodFoods_37,Mediterranean,185,Andheri,low,4.3,parking
-38,GoodFoods_38,Cafe,117,Jayanagar,low,3.4,"parking,outdoor_seating"
-39,GoodFoods_39,Mexican,103,Connaught Place,low,3.5,"parking,live_music"
-40,GoodFoods_40,Thai,61,Andheri,mid,4.3,"outdoor_seating,live_music,wheelchair_access"
-41,GoodFoods_41,Mediterranean,121,Lower Parel,high,3.4,"private_dining,wheelchair_access"
-42,GoodFoods_42,Mexican,80,Colaba,mid,3.0,"live_music,parking"
-43,GoodFoods_43,Cafe,183,Lower Parel,mid,3.6,"wheelchair_access,live_music"
-44,GoodFoods_44,Japanese,130,Connaught Place,mid,3.2,outdoor_seating
-45,GoodFoods_45,Japanese,197,Noida Sector 18,high,4.9,parking
-46,GoodFoods_46,Indian,72,Koramangala,mid,3.6,"outdoor_seating,private_dining"
-47,GoodFoods_47,Cafe,105,Colaba,mid,3.6,"wifi,parking"
-48,GoodFoods_48,Cafe,62,Bandra,high,3.6,"wheelchair_access,parking"
-49,GoodFoods_49,Japanese,116,Connaught Place,high,3.8,"outdoor_seating,parking"
-50,GoodFoods_50,Mediterranean,144,Colaba,mid,3.9,wifi
-51,GoodFoods_51,Indian,161,Connaught Place,mid,3.9,wheelchair_access
-52,GoodFoods_52,Indian,37,Connaught Place,high,4.2,"private_dining,outdoor_seating"
-53,GoodFoods_53,Mediterranean,196,MG Road,low,4.9,"wifi,private_dining,parking"
-54,GoodFoods_54,Mediterranean,106,Koramangala,mid,4.4,"wheelchair_access,parking,private_dining"
-55,GoodFoods_55,Italian,185,Noida Sector 18,high,3.7,"live_music,wifi,wheelchair_access"
-56,GoodFoods_56,Continental,149,Bandra,mid,4.6,wheelchair_access
-57,GoodFoods_57,Thai,196,Colaba,high,3.8,"outdoor_seating,live_music"
-58,GoodFoods_58,Mexican,101,Andheri,high,4.8,"live_music,wifi,private_dining"
-59,GoodFoods_59,Cafe,162,Jayanagar,high,3.1,"outdoor_seating,wifi"
-60,GoodFoods_60,Italian,116,Jayanagar,low,4.6,parking
-61,GoodFoods_61,Mexican,122,Indiranagar,low,3.9,"live_music,wifi"
-62,GoodFoods_62,Continental,88,MG Road,mid,4.9,parking
-63,GoodFoods_63,Thai,106,Connaught Place,low,4.6,private_dining
-64,GoodFoods_64,Italian,177,Bandra,high,4.0,"wheelchair_access,live_music,wifi"
-65,GoodFoods_65,Italian,109,Connaught Place,low,3.7,"parking,outdoor_seating"
-66,GoodFoods_66,Thai,93,Indiranagar,high,3.3,wheelchair_access
-67,GoodFoods_67,Chinese,200,Colaba,low,4.6,"private_dining,outdoor_seating"
-68,GoodFoods_68,Chinese,101,Indiranagar,mid,4.0,live_music
-69,GoodFoods_69,Indian,79,Bandra,mid,4.4,"wheelchair_access,live_music"
-70,GoodFoods_70,Seafood,146,MG Road,low,4.2,"outdoor_seating,wheelchair_access,parking"
-71,GoodFoods_71,Mediterranean,46,Connaught Place,low,3.1,wheelchair_access
-72,GoodFoods_72,Indian,167,Colaba,low,3.2,"parking,live_music"
-73,GoodFoods_73,Japanese,193,Bandra,low,3.8,parking
-74,GoodFoods_74,Mexican,82,Jayanagar,low,3.2,"outdoor_seating,wheelchair_access"
-75,GoodFoods_75,Thai,199,Koramangala,mid,4.1,"wifi,private_dining,wheelchair_access"
-76,GoodFoods_76,Thai,21,Bandra,high,4.3,outdoor_seating
-77,GoodFoods_77,Cafe,168,Bandra,mid,3.4,"wifi,private_dining"
-78,GoodFoods_78,Continental,91,MG Road,mid,3.8,private_dining
-79,GoodFoods_79,Italian,199,Andheri,high,4.7,live_music
-80,GoodFoods_80,Italian,114,MG Road,high,3.4,private_dining
-81,GoodFoods_81,Italian,118,MG Road,high,3.7,wheelchair_access
-82,GoodFoods_82,Japanese,159,Colaba,high,3.9,"parking,outdoor_seating"
-83,GoodFoods_83,Italian,107,Lower Parel,high,3.0,"private_dining,outdoor_seating"
-84,GoodFoods_84,Mediterranean,73,Andheri,high,4.5,"outdoor_seating,private_dining,parking"
-85,GoodFoods_85,Japanese,185,Andheri,mid,3.4,"wheelchair_access,outdoor_seating,private_dining"
-86,GoodFoods_86,Thai,178,MG Road,mid,4.8,"private_dining,wifi"
-87,GoodFoods_87,Cafe,98,Noida Sector 18,high,4.7,"wifi,private_dining,live_music"
-88,GoodFoods_88,Japanese,108,Andheri,low,4.5,"private_dining,wheelchair_access"
-89,GoodFoods_89,Mexican,69,Connaught Place,low,4.5,parking
-90,GoodFoods_90,Mediterranean,29,Indiranagar,low,4.2,"parking,private_dining"
-91,GoodFoods_91,Thai,170,Noida Sector 18,high,4.2,"wifi,parking,outdoor_seating"
-92,GoodFoods_92,Seafood,59,MG Road,mid,4.3,wifi
-93,GoodFoods_93,Thai,84,Andheri,low,4.2,"live_music,parking"
-94,GoodFoods_94,Mexican,102,Indiranagar,mid,3.7,live_music
-95,GoodFoods_95,Mexican,146,Koramangala,low,4.6,"wheelchair_access,live_music"
-96,GoodFoods_96,Indian,161,Indiranagar,high,4.6,"live_music,private_dining,outdoor_seating"
-97,GoodFoods_97,Thai,154,Bandra,mid,4.2,"wifi,private_dining,parking"
-98,GoodFoods_98,Italian,158,Lower Parel,high,3.2,wheelchair_access
-99,GoodFoods_99,Cafe,53,Colaba,low,3.1,"outdoor_seating,wheelchair_access,parking"
-100,GoodFoods_100,Mediterranean,60,Bandra,high,4.2,"wifi,private_dining,parking"
+1,GoodFoods_1,Seafood,36,MG Road,high,4.6,"outdoor_seating,live_music"
+2,GoodFoods_2,Seafood,74,Andheri,low,4.4,"parking,live_music"
+3,GoodFoods_3,Seafood,135,Jayanagar,low,3.2,outdoor_seating
+4,GoodFoods_4,Mediterranean,177,MG Road,mid,4.0,"wifi,parking"
+5,GoodFoods_5,Cafe,136,MG Road,low,4.2,"parking,private_dining"
+6,GoodFoods_6,Seafood,130,Jayanagar,high,3.0,"private_dining,wifi"
+7,GoodFoods_7,Seafood,97,Jayanagar,high,3.4,"wifi,parking"
+8,GoodFoods_8,Seafood,134,Lower Parel,high,4.5,"wheelchair_access,outdoor_seating"
+9,GoodFoods_9,Seafood,45,Andheri,high,3.8,"wheelchair_access,live_music"
+10,GoodFoods_10,Mediterranean,117,MG Road,low,3.8,"wheelchair_access,parking,outdoor_seating"
+11,GoodFoods_11,Mediterranean,186,Indiranagar,high,3.4,"wheelchair_access,wifi,outdoor_seating"
+12,GoodFoods_12,Seafood,88,Noida Sector 18,high,4.6,live_music
+13,GoodFoods_13,Continental,62,Koramangala,low,3.9,"outdoor_seating,live_music"
+14,GoodFoods_14,Seafood,159,Colaba,low,3.3,"wifi,live_music"
+15,GoodFoods_15,Continental,182,Lower Parel,mid,4.1,parking
+16,GoodFoods_16,Cafe,189,Indiranagar,mid,3.2,"live_music,parking"
+17,GoodFoods_17,Japanese,42,Jayanagar,high,3.7,"live_music,wifi,parking"
+18,GoodFoods_18,Indian,71,Jayanagar,low,4.8,"private_dining,live_music"
+19,GoodFoods_19,Japanese,44,Indiranagar,high,4.3,"outdoor_seating,parking"
+20,GoodFoods_20,Mediterranean,95,Andheri,mid,3.8,"wifi,live_music"
+21,GoodFoods_21,Indian,106,Colaba,high,4.8,"private_dining,wifi"
+22,GoodFoods_22,Chinese,135,Jayanagar,low,3.5,"outdoor_seating,private_dining,wheelchair_access"
+23,GoodFoods_23,Cafe,67,Lower Parel,low,3.5,"live_music,wifi"
+24,GoodFoods_24,Continental,159,Andheri,mid,3.6,outdoor_seating
+25,GoodFoods_25,Indian,139,Bandra,high,4.4,parking
+26,GoodFoods_26,Cafe,95,Noida Sector 18,mid,3.2,parking
+27,GoodFoods_27,Seafood,121,Bandra,low,4.6,wifi
+28,GoodFoods_28,Japanese,71,Andheri,mid,4.4,"parking,outdoor_seating,live_music"
+29,GoodFoods_29,Indian,36,Lower Parel,low,3.1,"outdoor_seating,private_dining,wifi"
+30,GoodFoods_30,Thai,89,Koramangala,high,3.9,wheelchair_access
+31,GoodFoods_31,Mediterranean,106,Lower Parel,high,4.0,wifi
+32,GoodFoods_32,Mediterranean,77,Indiranagar,mid,3.4,"live_music,parking,wifi"
+33,GoodFoods_33,Italian,27,MG Road,low,4.5,"wheelchair_access,parking"
+34,GoodFoods_34,Thai,124,Lower Parel,low,4.4,"wheelchair_access,parking"
+35,GoodFoods_35,Japanese,84,MG Road,high,4.7,"live_music,outdoor_seating,private_dining"
+36,GoodFoods_36,Italian,191,Jayanagar,mid,3.9,"private_dining,live_music,wheelchair_access"
+37,GoodFoods_37,Cafe,118,Connaught Place,high,4.4,"parking,wifi,private_dining"
+38,GoodFoods_38,Thai,49,Jayanagar,low,4.5,"private_dining,wheelchair_access,parking"
+39,GoodFoods_39,Chinese,168,Lower Parel,mid,3.7,wheelchair_access
+40,GoodFoods_40,Chinese,43,Connaught Place,mid,3.4,private_dining
+41,GoodFoods_41,Thai,135,Jayanagar,high,4.5,"live_music,outdoor_seating,wheelchair_access"
+42,GoodFoods_42,Thai,120,Andheri,high,4.8,"live_music,wifi,parking"
+43,GoodFoods_43,Italian,52,Jayanagar,mid,4.7,"live_music,wheelchair_access,outdoor_seating"
+44,GoodFoods_44,Mexican,132,Colaba,low,3.1,"wheelchair_access,wifi"
+45,GoodFoods_45,Indian,76,Lower Parel,low,4.3,"outdoor_seating,wifi"
+46,GoodFoods_46,Chinese,108,Connaught Place,low,3.2,"wheelchair_access,outdoor_seating,wifi"
+47,GoodFoods_47,Thai,188,Andheri,low,4.5,wheelchair_access
+48,GoodFoods_48,Mediterranean,112,Koramangala,mid,4.1,"wifi,outdoor_seating"
+49,GoodFoods_49,Mexican,145,Noida Sector 18,high,4.3,"private_dining,wheelchair_access,wifi"
+50,GoodFoods_50,Seafood,70,Jayanagar,low,3.5,private_dining
+51,GoodFoods_51,Thai,102,Andheri,high,3.0,"wifi,private_dining"
+52,GoodFoods_52,Thai,90,Bandra,high,3.8,"wheelchair_access,parking,private_dining"
+53,GoodFoods_53,Japanese,59,Jayanagar,high,4.9,outdoor_seating
+54,GoodFoods_54,Mexican,54,Connaught Place,high,4.1,"wifi,wheelchair_access,live_music"
+55,GoodFoods_55,Thai,110,Noida Sector 18,mid,3.9,private_dining
+56,GoodFoods_56,Continental,91,Jayanagar,mid,3.2,"outdoor_seating,wheelchair_access,live_music"
+57,GoodFoods_57,Italian,124,Lower Parel,mid,4.2,"wheelchair_access,live_music,private_dining"
+58,GoodFoods_58,Cafe,142,Colaba,mid,3.7,"outdoor_seating,wifi"
+59,GoodFoods_59,Cafe,134,Jayanagar,high,4.4,"wifi,outdoor_seating"
+60,GoodFoods_60,Mediterranean,182,Bandra,high,3.6,"parking,private_dining"
+61,GoodFoods_61,Japanese,47,Connaught Place,mid,3.1,"private_dining,outdoor_seating"
+62,GoodFoods_62,Japanese,122,Bandra,mid,3.0,wheelchair_access
+63,GoodFoods_63,Thai,89,Colaba,mid,4.5,"outdoor_seating,parking"
+64,GoodFoods_64,Indian,182,Jayanagar,high,4.1,"live_music,wheelchair_access,private_dining"
+65,GoodFoods_65,Chinese,57,Andheri,high,3.8,"outdoor_seating,live_music,private_dining"
+66,GoodFoods_66,Continental,78,Bandra,mid,3.2,outdoor_seating
+67,GoodFoods_67,Italian,75,Bandra,low,4.3,"private_dining,live_music,wheelchair_access"
+68,GoodFoods_68,Italian,80,Andheri,high,3.9,"outdoor_seating,live_music"
+69,GoodFoods_69,Mexican,193,MG Road,mid,4.1,"wifi,private_dining"
+70,GoodFoods_70,Continental,185,Jayanagar,high,4.1,"private_dining,wheelchair_access"
+71,GoodFoods_71,Cafe,55,MG Road,low,4.1,"live_music,private_dining"
+72,GoodFoods_72,Thai,127,Andheri,low,3.8,"private_dining,live_music"
+73,GoodFoods_73,Mediterranean,129,MG Road,high,3.1,"outdoor_seating,live_music,private_dining"
+74,GoodFoods_74,Mexican,26,Noida Sector 18,low,4.4,"wheelchair_access,wifi"
+75,GoodFoods_75,Cafe,22,MG Road,high,4.5,"live_music,outdoor_seating,parking"
+76,GoodFoods_76,Chinese,167,Connaught Place,mid,3.3,"private_dining,parking"
+77,GoodFoods_77,Japanese,48,Bandra,low,3.8,"outdoor_seating,wifi"
+78,GoodFoods_78,Continental,112,Lower Parel,high,4.3,"parking,wheelchair_access,outdoor_seating"
+79,GoodFoods_79,Cafe,43,Jayanagar,low,3.9,"parking,outdoor_seating,wifi"
+80,GoodFoods_80,Seafood,146,Indiranagar,mid,3.7,"parking,wheelchair_access"
+81,GoodFoods_81,Italian,176,Bandra,high,3.8,private_dining
+82,GoodFoods_82,Continental,93,Bandra,high,3.7,wifi
+83,GoodFoods_83,Seafood,186,Andheri,low,3.6,wifi
+84,GoodFoods_84,Japanese,151,Connaught Place,low,3.4,private_dining
+85,GoodFoods_85,Japanese,134,MG Road,mid,3.8,"wifi,live_music"
+86,GoodFoods_86,Continental,28,Colaba,low,4.3,"live_music,wifi"
+87,GoodFoods_87,Mediterranean,182,Andheri,high,3.9,"outdoor_seating,wheelchair_access"
+88,GoodFoods_88,Continental,176,Colaba,mid,4.1,"wifi,parking,outdoor_seating"
+89,GoodFoods_89,Japanese,21,Colaba,mid,3.9,wifi
+90,GoodFoods_90,Continental,190,Noida Sector 18,mid,3.6,"outdoor_seating,parking,wheelchair_access"
+91,GoodFoods_91,Mediterranean,91,Noida Sector 18,low,4.1,"outdoor_seating,parking"
+92,GoodFoods_92,Chinese,27,Noida Sector 18,high,4.3,"wheelchair_access,wifi"
+93,GoodFoods_93,Chinese,117,Jayanagar,mid,3.3,parking
+94,GoodFoods_94,Indian,178,Connaught Place,high,3.6,live_music
+95,GoodFoods_95,Continental,149,Noida Sector 18,mid,4.1,"outdoor_seating,wheelchair_access"
+96,GoodFoods_96,Mexican,95,Lower Parel,mid,4.0,wheelchair_access
+97,GoodFoods_97,Seafood,102,Bandra,mid,4.3,wheelchair_access
+98,GoodFoods_98,Mexican,184,Jayanagar,low,4.7,"wheelchair_access,private_dining,wifi"
+99,GoodFoods_99,Thai,46,Connaught Place,high,4.6,"outdoor_seating,live_music"
+100,GoodFoods_100,Mexican,109,MG Road,low,4.3,"private_dining,wheelchair_access"
